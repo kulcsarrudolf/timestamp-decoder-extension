@@ -2,6 +2,12 @@
 
 A browser extension that converts selected Unix timestamps to human-readable dates via context menu.
 
+## Demo
+
+<img src="@data/demo.gif" alt="TimeStamp Decoder Extension Demo" width="600" autoplay loop>
+
+_Select any Unix timestamp on a webpage, right-click, and choose "Decode Timestamp" to see the human-readable date._
+
 ## Development Mode
 
 To load this extension in development mode:
