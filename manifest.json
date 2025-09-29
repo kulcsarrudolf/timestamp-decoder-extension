@@ -1,6 +1,7 @@
 {
   "manifest_version": 3,
   "name": "TimeStamp Decoder",
+  "author": "Kulcsar Rudolf <kulcsarrudolf@gmail.com>",
   "version": "1.0",
   "description": "Convert selected Unix timestamps to human-readable dates",
   "permissions": ["contextMenus", "activeTab", "scripting"],

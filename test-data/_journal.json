@@ -1,0 +1,146 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1704067200000,
+      "tag": "0000_initial_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1706745600000,
+      "tag": "0001_add_users_table",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1709251200000,
+      "tag": "0002_add_posts_table",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1711929600000,
+      "tag": "0003_add_comments_relation",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1714521600000,
+      "tag": "0004_add_auth_sessions",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1717200000000,
+      "tag": "0005_add_user_profiles",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1719792000000,
+      "tag": "0006_add_notifications_table",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1722470400000,
+      "tag": "0007_add_follower_system",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1725148800000,
+      "tag": "0008_add_media_uploads",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1727740800000,
+      "tag": "0009_add_categories_tags",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1730419200000,
+      "tag": "0010_add_search_indexes",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1733011200000,
+      "tag": "0011_add_analytics_events",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1735689600000,
+      "tag": "0012_add_payment_system",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1738368000000,
+      "tag": "0013_add_subscriptions",
+      "breakreach": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1740787200000,
+      "tag": "0014_add_webhooks",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1743465600000,
+      "tag": "0015_add_oauth_providers",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1745884800000,
+      "tag": "0016_add_rate_limiting",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "7",
+      "when": 1748563200000,
+      "tag": "0017_add_audit_logs",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "7",
+      "when": 1751155200000,
+      "tag": "0018_add_feature_flags",
+      "breakpoints": true
+    },
+    {
+      "idx": 19,
+      "version": "7",
+      "when": 1753833600000,
+      "tag": "0019_add_email_templates",
+      "breakpoints": true
+    }
+  ]
+}
